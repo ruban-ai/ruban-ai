@@ -54,5 +54,5 @@ Python • PyTorch • FAISS • CUDA • Machine Learning • Deep Learning •
 
 ## 📫 Connect With Me
 
-LinkedIn: *(add your LinkedIn link here)*  
+LinkedIn: *[View Page* ](https://www.linkedin.com/in/rubansampath/) 
 GitHub: https://github.com/ruban-ai
