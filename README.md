@@ -70,12 +70,6 @@ Production AI (applied)      └── bilingual real-time translation service (
 
 ---
 
-## 📊 GitHub Activity
-![Ruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruban-ai&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruban-ai&layout=compact&hide_border=true)
-
----
-
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubansampath)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ruban-ai)
